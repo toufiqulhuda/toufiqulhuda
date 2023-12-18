@@ -1,8 +1,9 @@
 ### Hi there, I'm Md Toufiqul Huda 👋 
 A passionate full-stack developer from Bangladesh
 
-- 🔭 I’m currently working on something cool.
-- 🌱 I’m currently learning ASP.Net, vue and node.js 🤣
+- 🔭 I’m currently working on an Internet Banking Application.
+- 🌱 I’m an expert in JAVA with Spring boot | React & Node | PHP with Laravel | MySql & Oracle | Git & CICD
+- 🌱 I’m currently learning Flutter with Dart 🤣
 - ⚡ Fun fact: I love codding...
 - 📫 How to reach me **tuloncse@gmail.com** 
 
